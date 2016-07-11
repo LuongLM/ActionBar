@@ -44,6 +44,7 @@ import java.util.ArrayList;
  *
  *
  *
+ * 
  * The sample contains a {@link ViewPager} which displays content of differing types: image and
  * text. When a new item is selected in the ViewPager, the ShareActionProvider is updated with
  * a share intent specific to that content.
