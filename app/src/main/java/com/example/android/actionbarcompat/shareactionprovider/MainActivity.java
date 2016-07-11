@@ -41,6 +41,9 @@ import java.util.ArrayList;
  * This sample shows you how a provide a {@link ShareActionProvider} with ActionBarCompat,
  * backwards compatible to API v7.
  * <p>
+ *
+ *
+ *
  * The sample contains a {@link ViewPager} which displays content of differing types: image and
  * text. When a new item is selected in the ViewPager, the ShareActionProvider is updated with
  * a share intent specific to that content.
